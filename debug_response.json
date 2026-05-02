@@ -1,0 +1,15 @@
+{
+  "value": {
+    "mediaArtifact": "urn:li:digitalmediaMediaArtifact:(urn:li:digitalmediaAsset:D4E22AQFiHf4WEGcwyw,urn:li:digitalmediaMediaArtifactClass:uploaded-image)",
+    "uploadMechanism": {
+      "com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest": {
+        "uploadUrl": "https://www.linkedin.com/dms-uploads/sp/v2/D4E22AQFiHf4WEGcwyw/uploaded-image/B4EZy4gcOyJEAA-/0?ca=vector_feedshare&cn=uploads&iri=B01-78&sync=0&v=beta&ut=1OkWoFsUckPs81",
+        "headers": {
+          "media-type-family": "STILLIMAGE"
+        }
+      }
+    },
+    "asset": "urn:li:digitalmediaAsset:D4E22AQFiHf4WEGcwyw",
+    "assetRealTimeTopic": "urn:li-realtime:digitalmediaAssetUpdatesTopic:urn:li:digitalmediaAsset:D4E22AQFiHf4WEGcwyw"
+  }
+}
